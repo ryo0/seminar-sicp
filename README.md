@@ -1,3 +1,2 @@
-atomじゃなきゃなんか動かせん
-
-Ctrl + Shift + Bで実行
+VSCode Code Runner
+ctrl + option + nで実行
